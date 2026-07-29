@@ -25,3 +25,4 @@
 
 - Email: bshreya_cse2405t0@mgit.ac.in
 - LinkedIn: [Shreya Profile](https://linkedin.com/in/shreya-example)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=java&label=java&color=ED8B00)
