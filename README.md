@@ -15,6 +15,10 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/Java-Advanced-orange?style=for-the-badge&logo=java&label=java&color=orange)
+
+
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreya&show_icons=true&theme=radical)
