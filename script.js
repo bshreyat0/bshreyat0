@@ -1,3 +1,4 @@
+//// Modified in dev branch
 document.getElementById("registrationForm").addEventListener("submit", function(e){
 
     e.preventDefault();
